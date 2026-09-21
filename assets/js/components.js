@@ -1,5 +1,5 @@
 /* =========================================================================
-   MAISON ROSÉ — COMPOSANTS RÉUTILISABLES
+   MAISON FLEUR — COMPOSANTS RÉUTILISABLES
    Chaque fonction renvoie du HTML (ou monte un widget) à partir des données
    de data.js. Modifier ici pour changer l’apparence d’une carte partout.
    ========================================================================= */

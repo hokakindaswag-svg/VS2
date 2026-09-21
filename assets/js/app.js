@@ -1,5 +1,5 @@
 /* =========================================================================
-   MAISON ROSÉ — NOYAU APPLICATIF
+   MAISON FLEUR — NOYAU APPLICATIF
    · panier (localStorage)
    · moteur de prix « 2 au choix pour 19,99 € »
    · en-tête / pied de page / tiroirs / sélecteur produit / toasts
