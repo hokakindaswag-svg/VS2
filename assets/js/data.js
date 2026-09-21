@@ -1,5 +1,5 @@
 /* =========================================================================
-   MAISON ROSÉ — DONNÉES DU CATALOGUE
+   MAISON FLEUR — DONNÉES DU CATALOGUE
    -------------------------------------------------------------------------
    TOUT LE CONTENU ÉDITABLE DU SITE SE TROUVE DANS CE FICHIER.
    Pour brancher de vraies photos / prix / stocks :
@@ -10,9 +10,9 @@
    ========================================================================= */
 
 const BRAND = {
-  name: 'MAISON ROSÉ',
+  name: 'MAISON FLEUR',
   tagline: 'Sens bon. Sens-toi chère.',
-  email: 'hello@maisonrose.fr',
+  email: 'hello@maisonfleur.fr',
   instagram: 'https://instagram.com',
   tiktok: 'https://tiktok.com',
   currency: '€',

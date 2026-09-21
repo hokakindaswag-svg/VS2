@@ -14,7 +14,7 @@
 
   const product = () => getProduct(`${scent.slug}-${type}`);
 
-  document.title = `${scent.name} — ${product().typeLabel} · Maison Rosé`;
+  document.title = `${scent.name} — ${product().typeLabel} · Maison Fleur`;
 
   /* ------------------------------------------------------------ Galerie */
   function renderGallery() {

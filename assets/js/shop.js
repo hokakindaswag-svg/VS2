@@ -10,7 +10,7 @@
     qs('[data-shop-title]').innerHTML = state.type === 'mist'
       ? 'Les <span class="italic">brumes</span>.' : 'Les <span class="italic">laits</span>.';
     qs('[data-shop-eyebrow]').textContent = TYPES[state.type].label + ' · ' + TYPES[state.type].size;
-    document.title = `${TYPES[state.type].label} — Maison Rosé`;
+    document.title = `${TYPES[state.type].label} — Maison Fleur`;
   }
 
   function filters() {

@@ -1,4 +1,4 @@
-# MAISON ROSÉ — site e-commerce
+# MAISON FLEUR — site e-commerce
 
 Site vitrine + parcours d'achat complet pour une marque de **brumes et laits parfumés**
 (TikTok → accueil → produit → duo → panier → commande), entièrement en français.
